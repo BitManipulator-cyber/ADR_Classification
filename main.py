@@ -1,1 +1,1 @@
-Refer: https://www.kaggle.com/code/aadityajagtap/adr-project/notebooks
+Refer: https://www.kaggle.com/code/aadityajagtap/adr-project/notebook
